@@ -4,7 +4,7 @@ Additionally, this dashboard help users to determine which type of property inve
 
 #### Dashboard Content - 
 1. Overview of Malaysia Housing Market
-2. Detailed Penang Housing Prices
+2. Detailed View of Housing Prices in Penang
 
 #### Data Source - 
 
@@ -15,7 +15,7 @@ The data was collected from the Department of Statistics Malaysia.
 The data contains the housing prices of each type of houses (eg. All type, Detached house, Semi-detached, High Rise) for each state within Malaysia between 2011 to 2021.
 
 
-## Malaysia Housing Market
+## Story 1 - Overview of Malaysia Housing Market
 <ul>
   <li>We tabulated a ROI table that compares the ROI of different types of houses in different states. 
 </li>
@@ -27,7 +27,7 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 
 ![image](https://user-images.githubusercontent.com/55709960/157467296-162760c0-b788-43db-a742-0e748148029d.png)
 
-## Penang housing market
+## Story 2 - Detailed View of Housing Prices in Penang
 <ul>
   <li>We used latlong.py to extract latitude and lonngitude of housing address using Google's API. 
 </li>
