@@ -38,6 +38,8 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 - KL has the most expensive house in 2021. 
 - Terraced house in Johor gave investors the highest ROI, followed by detached house in Kelantan and detached house in Penang.
 
+
+
 ## Story 2 - Detailed View of Housing Prices in Penang
 <ul>
   <li>We used latlong.py to extract latitude and lonngitude of housing address using Google's API. 
@@ -50,6 +52,8 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 To sum up, this geographical map shows users the reality of how much they should earn per month in order to purchase a house in their desired location. 
 
 
+
+
 ![image](https://user-images.githubusercontent.com/55709960/157468021-6f23eee2-5e0f-44b4-95a2-ebd0063e23a2.png)
 
 
@@ -58,7 +62,9 @@ To sum up, this geographical map shows users the reality of how much they should
 - In Timur Laut, landlords sought an average of RM 1.2mil for landed houses and RM 550,000 for high-rise houses.
 - Seberang Perai Tengah as a relative bargain at RM 460,000 for landed houses and RM 240,000 for high- rise houses.
 
-## House Price Prediction
+
+
+## Story 3 - House Price Prediction
 <ul>
   <li>We compare the regression model of SAC and gradient boost model trained by ourselves.
 </li>
