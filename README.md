@@ -18,7 +18,7 @@ The data contains the housing prices of each type of houses (eg. All type, Detac
 
 ## Story 1 - Overview of Malaysia Housing Market
 <ul>
-  <li> This page began by providing an overview of the Housing Prices in Malaysia in 2021 compared to 2020 where red indicates a drop and green indicates a rise. These numerical indicators help users to identify the impact of COVID on the housing prices for each state and each particlaur type of house. 
+  <li> This story began by providing an overview of the Housing Prices in Malaysia in 2021 compared to 2020, where red indicates a drop and green indicates a rise. These numerical indicators help users to identify the impact of COVID on the housing prices for each state and each particlaur type of house. 
 </li> 
   <li> Next, we created a barchart to determine which state has the most expensive house in 2021.
 </li> 
