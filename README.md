@@ -2,15 +2,18 @@
 In this project, we have created a SAP Analytics Cloud dashboard that served as a guide for users to determine the worthiness of property investment in Malaysia. 
 Additionally, this dashboard help users to determine which type of property investment is right for them. 
 
-Dashboard Content - 
+#### Dashboard Content - 
 1. Overview of Malaysia Housing Market
 2. Detailed Penang Housing Prices
 
-Data Source - 
-Data was collected from the Department of Statistics Malaysia. 
+#### Data Source - 
 
-Data Content -
+The data was collected from the Department of Statistics Malaysia. 
+
+#### Data Content -
+
 The data contains the housing prices of each type of houses (eg. All type, Detached house, Semi-detached, High Rise) for each state within Malaysia between 2011 to 2021.
+
 
 ## Malaysia Housing Market
 <ul>
