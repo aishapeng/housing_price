@@ -38,9 +38,10 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 </li>
   <li>We clustered the latitude and longitude with K-Means clustering (HousePrice_HeatMap.ipynb) to cluster the houses based on their areas.
 </li>
-  <li>The median of each clusters is used to calculate the instalment each month to buy a house in the area and suggest the recommennded salary.
+  <li>The median of each clusters is used to calculate the installment per month to pay the housing loan in the specific area, followed by proposing the recommended salary to the users. 
 </li>
 </ul>
+To sum up, this geographical map gave users a realtiy view of how much users should earn per month in order to purchase a house in the desired location. 
 
 ![image](https://user-images.githubusercontent.com/55709960/157468021-6f23eee2-5e0f-44b4-95a2-ebd0063e23a2.png)
 
