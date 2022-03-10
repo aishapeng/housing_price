@@ -24,7 +24,7 @@ The data contains the housing prices of each type of houses (eg. All type, Detac
 </li> 
   <li> We also tabulated a ROI table that compares the ROI of different types of houses in different states. 
 </li>
-  <li> Lastly, we have built a time-series line chart that shows the trend of housing prices over the years and forecasts the house price.
+  <li> Lastly, we have built a time-series line chart that shows the trend of housing prices over the years and forecasts the house price in 2022. 
 </li>
 </ul>
 
