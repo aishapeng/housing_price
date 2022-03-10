@@ -1,8 +1,10 @@
 # Housing Prices Prediction
-In this project, we created a SAC dashboard to provide an investment guide for Malaysian real estate market.
-We created 2 pages - 
-1. Overview of Malaysia housing market
-2. Detailed Penang house price
+In this project, we have created a SAP Analytics Cloud dashboard that served as a guide for users to determine the worthiness of property investment in Malaysia. 
+Additionally, this dashboard help users to determine which type of property investment is right for them. 
+
+Dashboard Content - 
+1. Overview of Malaysia Housing Market
+2. Detailed Penang Housing Prices
 
 
 ## Malaysia Housing Market
