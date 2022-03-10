@@ -49,6 +49,7 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 </ul>
 To sum up, this geographical map shows users the reality of how much they should earn per month in order to purchase a house in their desired location. 
 
+
 ![image](https://user-images.githubusercontent.com/55709960/157468021-6f23eee2-5e0f-44b4-95a2-ebd0063e23a2.png)
 
 
