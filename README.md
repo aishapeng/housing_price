@@ -5,6 +5,7 @@ Additionally, this dashboard help users to determine which type of property inve
 #### Dashboard Content - 
 1. Overview of Malaysia Housing Market
 2. Detailed View of Housing Prices in Penang
+3. House Price Prediction
 
 #### Data Source - 
 
@@ -17,9 +18,13 @@ The data contains the housing prices of each type of houses (eg. All type, Detac
 
 ## Story 1 - Overview of Malaysia Housing Market
 <ul>
-  <li>We tabulated a ROI table that compares the ROI of different types of houses in different states. 
+  <li> This page began by providing an overview of the Housing Prices in Malaysia in 2021 compared to 2020 where red indicates a drop and green indicates a rise. These numerical indicators help users to identify the impact of COVID on the housing prices for each state and each particlaur type of house. 
+</li> 
+  <li> Next, we created a barchart to determine which state has the most expensive house in 2021.
+</li> 
+  <li> We also tabulated a ROI table that compares the ROI of different types of houses in different states. 
 </li>
-  <li>There is also a time-series line chart that shows the trend of housing prices over the years and forecasts the house price.
+  <li> Lastly, we have built a time-series line chart that shows the trend of housing prices over the years and forecasts the house price.
 </li>
 </ul>
 
