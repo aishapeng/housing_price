@@ -1,11 +1,11 @@
-# housing_price
+# Housing Prices Prediction
 In this project, we created a SAC dashboard to provide an investment guide for Malaysian real estate market.
 We created 2 pages - 
 1. Overview of Malaysia housing market
 2. Detailed Penang house price
 
 
-## Malaysia housing market
+## Malaysia Housing Market
 <ul>
   <li>We tabulated a ROI table that compares the ROI of different types of houses in different states. 
 </li>
