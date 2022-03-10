@@ -32,6 +32,12 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 
 ![image](https://user-images.githubusercontent.com/55709960/157467296-162760c0-b788-43db-a742-0e748148029d.png)
 
+
+#### Key Takeaways:
+- All type of houses has declined in KL compared to 2020. We can conclude that COVID has caused housing prices in KL to depreciate. While for Sabah, we observed a totally different trend. Almost all types of houses has shown appreciation in housing prices. Hence, we can conclude that COVID did not has any effect on the housing prices in Sabah.
+- KL has the most expensive house in 2021. 
+- 
+
 ## Story 2 - Detailed View of Housing Prices in Penang
 <ul>
   <li>We used latlong.py to extract latitude and lonngitude of housing address using Google's API. 
@@ -44,6 +50,13 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 To sum up, this geographical map shows users the reality of how much they should earn per month in order to purchase a house in their desired location. 
 
 ![image](https://user-images.githubusercontent.com/55709960/157468021-6f23eee2-5e0f-44b4-95a2-ebd0063e23a2.png)
+
+
+#### Key Takeaways:
+- we can see that All type of houses has declined compared to 2020. 
+SO we can conclude that covid has caused housing prices in KL to depreciate. While for Sabah, we observe a totally different trend. 
+The housing price has appreciated. The only one that show depriciation is terraced house. We can conclude that covid did not affect the housing prices in Sabah.
+- KL has the most expensive house in 2021. 
 
 ## House Price Prediction
 <ul>
@@ -60,3 +73,11 @@ To sum up, this geographical map shows users the reality of how much they should
 </ul>
 
 ![image](https://user-images.githubusercontent.com/55709960/157468791-a8e5f4d8-24a8-402b-be47-c2709381339b.png)
+
+
+
+#### Key Takeaways:
+- we can see that All type of houses has declined compared to 2020. 
+SO we can conclude that covid has caused housing prices in KL to depreciate. While for Sabah, we observe a totally different trend. 
+The housing price has appreciated. The only one that show depriciation is terraced house. We can conclude that covid did not affect the housing prices in Sabah.
+- KL has the most expensive house in 2021. 
