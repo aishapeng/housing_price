@@ -17,7 +17,7 @@ The data was collected from the Department of Statistics Malaysia.
 The data contains the housing prices of each type of houses (eg. All type, Detached house, Semi-detached, High Rise) for each state within Malaysia between 2011 to 2021.
 
 
-## Story 1 - Overview of Malaysia Housing Market
+## Story 1: Overview of Malaysia Housing Market
 <ul>
   <li> This story began by providing an overview of the Housing Prices in Malaysia in 2021 compared to 2020, where red indicates a drop and green indicates a rise. These numerical indicators help users to identify the impact of COVID on the housing prices for each state and each particlaur type of house. 
 </li> 
@@ -41,7 +41,7 @@ NOTE: All charts are applicable to the filter, for flexible user interaction.
 
 
 
-## Story 2 - Detailed View of Housing Prices in Penang
+## Story 2: Detailed View of Housing Prices in Penang
 <ul>
   <li>We used latlong.py to extract latitude and lonngitude of housing address using Google's API. 
 </li>
@@ -65,7 +65,7 @@ To sum up, this geographical map shows users the reality of how much they should
 
 
 
-## Story 3 - House Price Prediction
+## Story 3: House Price Prediction
 <ul>
   <li>We compare the regression model of SAC and gradient boost model trained by ourselves.
 </li>
@@ -82,4 +82,4 @@ To sum up, this geographical map shows users the reality of how much they should
 ![image](https://user-images.githubusercontent.com/55709960/157468791-a8e5f4d8-24a8-402b-be47-c2709381339b.png)
 
 
-Thanks for reading. 
+#### Thanks for reading !
